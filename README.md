@@ -2,7 +2,7 @@
 
 # PROJECT NAME:
 
-AXA APP
+AXA App
 
 # ERRORS:
 
@@ -37,6 +37,12 @@ role "admin"
 
 Get the user linked to a policy number -> Can be accessed by users with role
 "admin"
+
+# STACK
+
++ Node.js
++ Express
++ Axios
 
 # HOW TO RUN THE APP
 
